@@ -1,25 +1,0 @@
-"person": {
- "id": 34226,
- "name": "lFenix",
- "display_name": null, "avatar": 
-  "https://lemmy.ml/pictrs/image/df86c06d-341c-4e79-9c80-d7c7eb64967a.jpeg",
- "banned": false,
- "published": "2021-08-19T11:09:15.741616",
- "updated": null, "actor_id": "https://lemmy.ml/u/lFenix", 
-  "bio": "The author of Mlem", 
-  "local": true,
- "banner": null, 
-  "deleted": false,
- "inbox_url": "https://lemmy.ml/u/lFenix/inbox", 
-  "shared_inbox_url": "https://lemmy.ml/inbox", 
-  "matrix_user_id": "[David Bureš](https://matrix.to/#/@buresdv:matrix.org)", 
-  "admin": false, "bot_account": false, 
-  "ban_expires": null, 
-  "instance_id": 394 }, 
-  "counts": { "id": 12744, 
-  "person_id": 34226,
- "post_count": 13,
- "post_score": 152, 
-  "comment_count": 89, 
-  "comment_score": 295 
-} 

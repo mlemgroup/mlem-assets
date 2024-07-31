@@ -1,0 +1,1 @@
+Use the [Inter](https://github.com/rsms/inter/) font for these. Using SF Pro would be disallowed under the terms of the licence.
